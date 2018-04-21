@@ -1,0 +1,45 @@
+[center][b]This is a TEST, I accidentally hit the post button.  ;)[/b][/center]
+
+[center]
+[size=20pt]Wisp Project [WISP][/size]
+
+[img]https://raw.githubusercontent.com/wispproject/graphics/master/Wisp_Logo-200x200.png[/img]
+[/center]
+
+[size=12pt][u][b]Links[/b][/u][/size]
+[list]
+[li]Discord invite: https://discordapp.com/invite/2YUewTX[/li]
+[li]Github Home: https://github.com/wispproject[/li]
+[li]Documentation Wiki: https://github.com/wispproject/doc/wiki[/li]
+[li]Twitter: https://twitter.com/WISP_Project[/li]
+[/list]
+
+
+[size=12pt][u][b]Overview[/b][/u][/size]
+Wisp will be a fork of [url=https://bitcointalk.org/index.php?topic=2103301.0]SpectreCoin[/url] (XSPEC), a privacy-focused cryptocurrency. This is a [i]preliminary announcement[/i] of Wisp. A formal announcement of the coin will follow after the fork has been implemented and the wallet has been released.
+
+The Wisp project is an initiative of a group of individuals with the goal of developing a privacy-focused coin in a community-driven manner, without a centralized leadership but based on collaboration. The active Wisp community consists of developers, blockchain fundamentalists, anarchists, freethinkers and artists. We believe in privacy, freedom and decentralization, and we want to build the technology, infrastructure and ecosystem necessary to get closer to these ideals.
+
+
+[size=12pt][u][b]Background[/b][/u][/size]
+Unfortunately, the past months have been very rough for SpectreCoin, which has ultimately lead to this fork. There has been a lot of FUD regarding our core developer JBG, who is now a member of the Wisp project. The FUD was mainly based on a supposedly slow speed of development and a lack of progress, which then escalated into personal attacks and criticism against JBG himself.
+
+At the same time, the original founder of SpectreCoin, [i]Mandica[/i], came back after a long time of absence and claimed the leadership of the (prior to this) community-driven SpectreCoin project. Along with that, she also announced her new plans for the project to implement a new funding method and hire additional devs. This method would mean that a certain percentage of the block reward of each block would go to a wallet held by the SpectreCoin leadership. For some of the SpectreCoin members who strongly believe in decentralization (among them JBG) this was unacceptable, so we decided to continue making a coin without such a fee.
+
+At the current moment, the plans of SpectreCoin to implement such a funding method seem to have subsided, but we decided to fork anyway because there are too many personal differences and incompatible philosophies regarding the project.
+
+
+[size=12pt][u][b]About the fork[/b][/u][/size]
+The fork will be a typical hardfork, which means that all balances on the SpectreCoin blockchain will also be valid on the Wisp chain, at the moment of the fork. The exact date of the fork has yet to be announced (in the upcoming official announcement), but we expect it to happen within the next few weeks. In order to receive your Wisp balance, you will need to have your SpectreCoin balance in your local SpectreCoin (or Wisp) wallet at the moment of the fork.
+
+
+[size=12pt][u][b]Outlook[/b][/u][/size]
+We are currently in the process of preparing the fork and launching the new project. The fork is being implemented by JBG. In the meanwhile, we are setting up our collaboration platform on Github, which will be used for code, documentation, feature requests and graphics. As many people in our community are not familiar with Github yet, it takes some time until we can start the actual collaboration.
+
+After Github has been set up, we aim to offer bounties for development tasks (or other creative work) in order to incentivize many developers to join our project, which is necessary to decentralize development and to achieve wide collaboration for our common goal of creating a widely used private cryptocurrency.
+
+After the fork has happened, JBG will continue his previous work on overhauling the wallet interface. This will be a standalone sub-project of Wisp, referred to as [b]Wisp UI[/b] for now, that will be portable across all cryptocurrencies compatible with the Bitcoin RPC interface (including SpectreCoin, for example). This will further drive the collaboration with other projects, in order to build an intuitive user interface for privacy-centric coins, which is one of the key challenges for achieving mass adoption of cryptocurrencies nowadays.
+
+Further, our plan is that Wisp will be exclusively listed on decentralized exchanges (DEX) like Bisq (https://bisq.network/), as these are the only way to provide a truly private and decentralized infrastructure for our users.
+
+If you are interested in joining our project, please join our Discord channel linked above. Important announcements will also be made here on Bitcointalk. Stay tuned!  ;)
