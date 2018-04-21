@@ -18,13 +18,15 @@
 [size=12pt][u][b]Overview[/b][/u][/size]
 Wisp will be a fork of [url=https://bitcointalk.org/index.php?topic=2103301.0]SpectreCoin[/url] (XSPEC), a privacy-focused cryptocurrency. This is a [i]preliminary announcement[/i] of Wisp. A formal announcement of the coin will follow after the fork has been implemented and the wallet has been released.
 
-The Wisp project is an initiative of a group of individuals with the goal of developing a privacy-focused coin in a community-driven manner, without a centralized leadership but based on collaboration. The active Wisp community consists of developers, blockchain fundamentalists, anarchists, freethinkers and artists. We believe in privacy, freedom and decentralization, and we want to build the technology, infrastructure and ecosystem necessary to get closer to these ideals.
+The Wisp project is an initiative of a group of individuals with the goal of developing a privacy-focused coin in a community-driven manner, without a central leadership but based on collaboration. The active Wisp community consists of developers, blockchain fundamentalists, anarchists, freethinkers and artists. We believe in privacy, freedom and decentralization, and we want to build the technology, infrastructure and ecosystem for a cryptocurrency that implements these ideas.
+
+Wisp is not to be confused with [url=https://bitcointalk.org/index.php?topic=2561885.0]Wispr[/url] (WSP), which has a similar name but is an entirely different project. We kindly apologize to the Wispr people for choosing a similar name, but we found that our name was a reasonable choice because Wispr (from [url=https://en.wikipedia.org/wiki/Whispering]whispering[/url]) and Wisp (in the sense of [url=https://en.wikipedia.org/wiki/Will-o%27-the-wisp]Will-o'-the-wisp[/url]) are two different words for two different things, and both come with their own connotations suitable for the respective topics of the two projects.
 
 
 [size=12pt][u][b]Background[/b][/u][/size]
-Unfortunately, the past months have been very rough for SpectreCoin, which has ultimately lead to this fork. There has been a lot of FUD regarding our core developer JBG, who is now a member of the Wisp project. The FUD was mainly based on a supposedly slow speed of development and a lack of progress, which then escalated into personal attacks and criticism against JBG himself.
+Unfortunately, the past months have been very rough for SpectreCoin, which has ultimately lead to this fork. There has been a lot of FUD regarding our core developer JBG, who is now a member of the Wisp project. The FUD was mainly based on a supposedly low speed of development and a lack of progress, which then escalated into personal attacks and criticism against JBG himself.
 
-At the same time, the original founder of SpectreCoin, [i]Mandica[/i], came back after a long time of absence and claimed the leadership of the (prior to this) community-driven SpectreCoin project. Along with that, she also announced her new plans for the project to implement a new funding method and hire additional devs. This method would mean that a certain percentage of the block reward of each block would go to a wallet held by the SpectreCoin leadership. For some of the SpectreCoin members who strongly believe in decentralization (among them JBG) this was unacceptable, so we decided to continue making a coin without such a fee.
+At the same time, the original founder of SpectreCoin, [i]Mandica[/i], came back after a long time of absence and claimed the leadership of the (prior to this) community-driven SpectreCoin project. Along with that, she also announced her new plans for the project to implement a new funding method and hire additional devs. This method would have meant that a certain percentage of the block reward of each block would go to a wallet held by the SpectreCoin leadership. For some of the SpectreCoin members who strongly believe in decentralization (among them JBG) this was unacceptable, so we decided to continue making a coin without such a fee.
 
 At the current moment, the plans of SpectreCoin to implement such a funding method seem to have subsided, but we decided to fork anyway because there are too many personal differences and incompatible philosophies regarding the project.
 
@@ -34,7 +36,7 @@ The fork will be a typical hardfork, which means that all balances on the Spectr
 
 
 [size=12pt][u][b]Outlook[/b][/u][/size]
-We are currently in the process of preparing the fork and launching the new project. The fork is being implemented by JBG. In the meanwhile, we are setting up our collaboration platform on Github, which will be used for code, documentation, feature requests and graphics. As many people in our community are not familiar with Github yet, it takes some time until we can start the actual collaboration.
+We are currently in the process of preparing the fork and launching the new project. The fork is being implemented by JBG. In the meanwhile, we are setting up our collaboration platform on Github, which will be used for code, documentation, the website, graphics and feature requests. As many people in our community are not familiar with Github yet, it takes some time until we can start the actual collaboration.
 
 After Github has been set up, we aim to offer bounties for development tasks (or other creative work) in order to incentivize many developers to join our project, which is necessary to decentralize development and to achieve wide collaboration for our common goal of creating a widely used private cryptocurrency.
 
