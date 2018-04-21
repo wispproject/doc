@@ -40,6 +40,6 @@ After Github has been set up, we aim to offer bounties for development tasks (or
 
 After the fork has happened, JBG will continue his previous work on overhauling the wallet interface. This will be a standalone sub-project of Wisp, referred to as [b]Wisp UI[/b] for now, that will be portable across all cryptocurrencies compatible with the Bitcoin RPC interface (including SpectreCoin, for example). This will further drive the collaboration with other projects, in order to build an intuitive user interface for privacy-centric coins, which is one of the key challenges for achieving mass adoption of cryptocurrencies nowadays.
 
-Further, our plan is that Wisp will be exclusively listed on decentralized exchanges (DEX) like Bisq (https://bisq.network/), as these are the only way to provide a truly private and decentralized infrastructure for our users.
+Further, our plan is that Wisp will be exclusively listed on decentralized exchanges (DEX) like Bisq (https://bisq.network/), as these are the only way to provide a truly private and decentralized infrastructure to our users. Making these DEX the only option will bring the necessary volume to these markets, and will hopefully also drive the general adoption of decentralized exchanges! :)
 
 If you are interested in joining our project, please join our Discord channel linked above. Important announcements will also be made here on Bitcointalk. Stay tuned!  ;)
