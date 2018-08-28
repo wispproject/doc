@@ -1,0 +1,41 @@
+What is Wisp?
+	First and foremost it is a community.
+	Secondly it is the ticker for an altcoin that is the continuation of the original and abandoned, Spectrecoin blockchain after a consensus change.
+
+Why is there Wisp?
+	Wisp was formed as a result of a small group who were, and are, discouraged by the current climate related to crypto currencies.  What once seemed like a promising path to financial freedom (where people were in control of their private financial interactions without the inclusion of debt instruments and regulations from tertiary parties) has rapidly become another Wall street-esque guessing game for the next fiat payout.
+	The actualization that there was money to be made in crypto currencies drew away from the Satochian principles that Bitcoin was based upon and brought in “investors,” causing once active communities to become replaced by corporately, or collectively, funded developers.  Trade of these currencies became more centralized and regulated. Exchange accounts became monitored and recorded at the demand of the entities that we originally sought to free ourselves from.  A new crowd presented itself looking to make a profit in fiat, and ideals of liberty took a backseat to a changing market.
+	The hope we have here at Wisp is to resurrect the community aspects of Crypto currencies.  Where individuals with a passion for an ideal make that ideal a reality.  We have a working blockchain and wallet, but what we need is a community that is interested in privacy and decentralization with the will to make it a reality.
+
+What does Wisp have to offer?
+
+As of right now Wisp offers a place to share ideology.  What we hope to achieve with that ideology is the growth of a group of people who are genuinely interested in establishing a community of individuals who value decentralization and privacy.
+
+For Developers
+
+We do have a wallet (that currently requires rebranding) and a functioning blockchain
+
+The community is a good place to practice opensource work
+
+The environment is really low stress.
+
+
+For Non-Developers
+
+We have a community that can use whatever skills you have time to offer.
+
+It's a good opportunity to network with like-minded individuals
+
+It's a place to learn and share information
+
+
+For more information on the philosophy behind Wisp
+please visit
+https://github.com/wispproject/doc/wiki
+
+or join our discord channel
+
+https://discord.gg/ZaFHVvH
+
+
+
